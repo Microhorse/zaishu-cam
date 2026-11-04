@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="sharedpref" path="zaishu_camera_license_prefs.xml" />
+    <include domain="sharedpref" path="zaishu_prefs.xml" />
+</full-backup-content>
